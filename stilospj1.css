@@ -1,0 +1,31 @@
+*{
+    background: linear-gradient(to right, blue, pink);
+
+}
+.encabezado{
+    text-align: center;
+    font-size: xx-large;
+    color: red;
+}
+.h2{
+     font-size: x-large;
+     text-align: center;
+     
+}
+.parrafo{
+    font-size: x-large;
+    text-align: center;
+   
+    right: 80px;
+}
+.movi{
+    width: 80%;
+    margin:auto ;
+}
+.BUTTON{
+    color: black;
+    align-items: center;
+    margin: 50px;
+    height: 59px;
+    background-color: chartreuse;
+}
